@@ -11,4 +11,4 @@ hmtgssai.nineonepassword.online
 
 2.api
 建議deepseek官方/SiliconFlow/Openrouter
-我用的是Openrouter
+我用的是Openrouter，創建一個API key，把sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 修改為你的api即可，建議加入多些api
