@@ -1,7 +1,7 @@
-# HMTGSS AI 開源免費前端api調用
-# HMTGSS AI 安卓 apk (made by app inventor)
+# AI 開源免費前端api調用
+# AI 安卓 apk (made by app inventor)
 
-注意:此項目為開源項目，請勿外傳及濫用。分享請使用該項目連結，版權:©️Homanho ©️HMTGSS
+注意:此項目為開源項目，請勿外傳及濫用。分享請使用該項目連結，版權:©️Homanho
 
 通過前端js調用DeepSeek api
 通過app inventor 製作的調用API 的app
